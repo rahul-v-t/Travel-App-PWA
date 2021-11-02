@@ -1,3 +1,10 @@
 {
-    "name": "Moke Travel"
+    "name": "Moke Travel - Ultimate Travel Guide",
+    "short_name": "Moke Travel",
+    "description":"ultimate Travel Guide",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color":"#fff",
+    "theme_color": "#fff",
+    "scope": "/"
 }
